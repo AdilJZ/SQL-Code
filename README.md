@@ -1,2 +1,2 @@
 # SQL-Code
-SQL Basics Create Table and Insert Into Table
+I will store all code or documents related to SQL in this repository.
